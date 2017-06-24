@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/intro.unity
+    guid: 6b864e3c26b103d43a8aee33675c80d9
+  - enabled: 1
+    path: Assets/nivel1true.unity
+    guid: 3cbc40c1f5e3269469a2dd74f838287c
+  - enabled: 1
+    path: Assets/nivel2.unity
+    guid: defb9e92f344f294f9cd2c26d71c220a
+  - enabled: 1
+    path: Assets/nivel3.unity
+    guid: 3175fde2e6f933f46a1aaf70130f0c00
+  - enabled: 1
+    path: Assets/nivel4.unity
+    guid: 4029418fc161dc84b939268b64a188c8
+  - enabled: 1
+    path: Assets/nivel5.unity
+    guid: f34aeaf0760e1f14fae6ae9717be5f17
+  - enabled: 1
+    path: Assets/nivel6.unity
+    guid: 7b79fd1d268c3324cbf2c55d55c72788
+  - enabled: 1
+    path: Assets/nivel7.unity
+    guid: bbfde6c99f69d4b4e8611901a82f6053
+  - enabled: 1
+    path: Assets/nivel8.unity
+    guid: a7ed3415e3df71148ad029adcb0a6ac9
+  - enabled: 1
+    path: Assets/endScreen.unity
+    guid: 2fa81963d7b6a3d4fac2ebcb10d92098
+  - enabled: 0
+    path: Assets/pausemenu.unity
+    guid: d3cb6b8f57d90c64f8fb1ff56d986034

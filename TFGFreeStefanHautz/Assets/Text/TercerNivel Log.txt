@@ -1,0 +1,11 @@
+Yeyo: ¿Cuántas golosinas metieron por bolsa?
+
+Yure: Pues con tanto cambio ya no me acuerdo.
+
+Yera: Veamos, si llamamos X al número de golosinas por bolsa y fueron 17 bolsas, y nos sobraron las 12 que nos vamos a comer ahora, se tiene que cumplir esta ecuación: 17X+12=80
+
+Yure: ¡Ah claro! La solución era 4 ó 5. Compruebo: 17·4=68, 68+12=80. Eso es, van 4 por bolsa.
+
+Yure: Pusimos 4 golosinas en cada bolsa.
+
+Yure: ¿Cuál sería la ecuación y la solución para los 21 invitados si nos sobran 17 golosinas? ¿Cómo harías la comprobación?

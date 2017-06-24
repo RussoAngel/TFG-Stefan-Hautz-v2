@@ -1,0 +1,9 @@
+Yera: Yure, tengo un problema, resulta que necesito repartir 40 euros entre 5 amigos y ya les he dado 30 euros.
+Yera: Sólo me quedan monedas de 2 euros. ¿Cuántas monedas les debo de dar a cada uno?
+Yure: Usa la estrategia algebraica, escribe la ecuación y resuélvela.
+Yera: Llamo X al número de monedas que les voy a dar a cada uno, en total estoy repartiendo 40 euros.
+Yera: Ya les di 30 y faltan los 2·5X por repartir. Entonces 30+10X=40.
+Yure: Sigue los pasos para resolverlo y comprueba que no te equivocas al final.
+Yera: ¿Cómo sé que no me equivoco?
+Yure: Cuando tengas la solución de X, sustitúyela en la ecuación inicial y comprueba que se mantiene la igualdad.
+Yure: ¿nos ayudas a resolver la ecuación y comprobar la solución?

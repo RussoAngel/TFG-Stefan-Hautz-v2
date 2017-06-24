@@ -1,0 +1,28 @@
+El Ciclo del Aprendizaje Preferencial Complementario
+
+Según el modelo del Aprendizaje Preferencial Complementario (APC), desarrollado por Francisco Gil Cordeiro y Margarita Díaz Roca, el aprendizaje individual o en equipo se puede ver como un proceso continuo que consta de varias fases (ver figura), llamado Ciclo del APC. 
+Fase 1: Cuando hay que aprender algo se debe de contar con una Motivación, unas ganas de aprender, algo que oriente para poder llegar hasta el final (en este punto tiene que surgir una llamada a la acción sobre la realidad, es la búsqueda de nuevas posibilidades). 
+Fase 2: La Experimentación o exploración desde lo aprendido previamente permitirá que afloren aquellos valores con los que establecer razonamientos, que permitan concluir cómo se espera alcanzar el nuevo aprendizaje (este es un proceso concreto y pasivo, en cuanto a que hay que detenerse a recordar y observar). 
+Fase 3: La Conceptualización es la fase en la que los nuevos conocimientos se sintetizan a partir de esos razonamientos y se van estructurando constituyendo los conceptos (este es un proceso teórico, más propio de un pensamiento sintético). 
+Fase 4: Los nuevos saberes pasan la prueba del esfuerzo del Procesamiento para verificar hasta qué punto permiten alcanzar los objetivos (esta fase es operativa, propia de un pensamiento funcional). 
+Fase 5: Una vez que se ha visto que lo que se sabe funciona, la fase siguiente es la Mecanización de lo aprendido para la construcción de nuevos productos del conocimiento, es la búsqueda de técnicas y herramientas que permitan obtener resultados evitando trabajos innecesarios (es la fase práctica). 
+Fase 6: La Consolidación del aprendizaje es la siguiente fase, aquello que hemos aprendido bien, se debe de mantener en el tiempo y en la posición adecuada, es la base del futuro conocimiento, tiene que tener consistencia, así lo que se ha aprendido se convierte en método (es la etapa de la organización y generalización de lo aprendido, es la búsqueda del equilibrio).
+Fase 7: Por último, está la etapa de Evaluación en la que se establecen criterios sobre cómo se hace un buen aprendizaje, si se ha aprendido algo importante, se debe de concluir estableciendo un criterio que permita juzgar lo que está bien hecho (es la fase de fomento del pensamiento crítico). 
+Si la conclusión abre nuevas perspectivas se vuelve a realizar otro ciclo, en forma de espiral. 
+
+
+
+
+Aprende ecuaciones de primer grado con Yure y Yera
+
+La unidad didáctica desarrollada en este videojuego tiene como objetivo ayudar a los estudiantes a plantear y resolver ecuaciones de primer grado con coeficientes y soluciones enteras, siguiendo el modelo del Ciclo del APC. 
+El videojuego plantea las fases con escenas en las que los niños resuelven diversas situaciones problemáticas recorriendo el Ciclo del APC. Hay una actividad propuesta en cada fase en la que se invita al jugador a hacer lo mismo a partir de la ejemplificación de los niños.
+Fase 1: Yure y Yera están preparando bolsas con golosinas para repartir entre los invitados a la fiesta de cumpleaños del hermano pequeño de Yure, Yeyo. Desconociendo el número de invitados que van a asistir a la fiesta, los niños ensayan distintas situaciones averiguando el número de golosinas que tienen que poner en cada bolsa. 
+Fase 2: Inicialmente Yeyo les dice un número de invitados y posteriormente se lo aumenta. Sobre un total de golosinas Yure y Yera razonan cómo repartir poco a poco las mismas en función del número de invitados.
+Fase 3: Yera introduce los conceptos de ecuación y solución para averiguar el número de golosinas por bolsa sabiendo el número de bolsas, el total de golosinas y las golosinas que le sobran.
+Fase 4: Los niños trabajan la obtención de la solución de una ecuación procesando las posibles soluciones una por una, dando valores a la incógnita hasta que las dos partes de la igualdad coinciden. 
+Fase 5: Yure enseña a Yera a resolver la ecuación con la lógica de quitar y poner golosinas o de repartirlas equitativamente en una y otra parte de la igualdad. Así simplifica la ecuación hasta obtener la solución. Estas reglas de transformación de ecuaciones permiten mecanizar la obtención de la solución.
+Fase 6: Yera le plantea a Yure una ecuación cualquiera y esta la resuelve transformándola paso a paso aplicando las reglas.
+Fase 7: Yera y Yure se plantean problemas ambientados en otras situaciones, tienen que tener criterio para establecer la ecuación, eligiendo la incógnita, escribiendo las expresiones algebraicas que se igualan, resolviéndola y comprobando las soluciones. 
+
+El tiempo que pueda requerir un alumno para realizar el Ciclo del APC tiene que estar en función de la maduración que vaya alcanzando en cada fase.

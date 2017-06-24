@@ -1,0 +1,14 @@
+Yeyo: ¿Cuántas bolsas me prepararon?
+WAYure: Averigualo tú, te metimos 4 por bolsa y nos estamos zampando 12 que sobraron.
+Yera: Je, je
+Yeyo: ¡Qué malos sois!
+WAYure: Hermanito, si X es el número de bolsas y van 4 golosinas por bolsa, y nos estamos zampando 12 que sobraron, ¡usa el álgebra!
+Yeyo: ...
+Yeyo: 4X+12=80
+WAYure: ¡Muy bien! Encuentra X probando distintos valores
+Yeyo: 4·5+12=32, no da, 4·20+12=92, me paso
+WAYure: Sigue
+Yeyo: 4·15+12=72, 4·16+12=76, 4·17+12=80, ¡Bingo! ¡Chúpate esa!
+Yera: Los hermanos pequeños ya no respetan a los mayores.
+Yure: Pues sí.
+Yera: ¿tú qué dices? Si para 80 golosinas van 6 golosinas por bolsa y sobran 8 golosinas, ¿cuántas bolsas son? ¿Nos ayudas a plantear y resolver la ecuación igual que Yeyo?

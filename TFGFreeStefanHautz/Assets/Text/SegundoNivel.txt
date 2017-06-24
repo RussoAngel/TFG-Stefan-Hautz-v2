@@ -1,0 +1,10 @@
+Yeyo: Tengo 15 invitados.
+Yure: Bueno hay que hacer 15 bolsas, ¿cuántas golosinas ponemos por bolsa?
+Yera: Si ponemos 2 por bolsa serían 30 y sobran 50. Ponemos otras 2 por bolsa, otras 30, y sobran 20. Una más por bolsa y son 15, y sobran 5. En total 5 en cada bolsa y sobran 5.
+Yure: Claro, 5 golosinas en 15 bolsas son, 5 por 15, igual a 75, entonces sobran 5 hasta las 80 que tenemos.
+Yeyo: Tengo 17 invitados.
+Yure: ¡Ala!, otra vez a razonar.
+Yera: A ver, ya no valen 5 por bolsa porque 5 por 17 son 85. Entonces pongamos 4 por bolsa. Veamos lo que sobra, 4 por 17 son 68, entonces 80 menos 68 son 12.
+Yure: ¡Qué barbaridad! ¡Cuántas sobran! 
+Yera: Ya podemos cerrar las bolsas. 
+Yera: ¿cómo harías el razonamiento del reparto si hay 21 invitados?

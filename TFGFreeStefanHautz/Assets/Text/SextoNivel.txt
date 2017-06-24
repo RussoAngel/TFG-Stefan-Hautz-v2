@@ -1,0 +1,11 @@
+Yera: Pero esto que he apuntado ¿nos vale para cualquier ecuación?
+Yure: Sí, ya que podemos organizar los pasos para resolver cualquier ecuación. Dime una ecuación que te la resuelvo.
+Yera: ¿Sin tener en cuenta de que se trata, si golosinas u otra cosa?
+Yure: Pues sí.
+Yera: Pues ahí va: 40=5X-30
+Yure: Me lo quieres poner más difícil, poniendo la X a la derecha, pero me da igual, me imagino que la estoy resolviendo mirándola en un espejo.
+Yure: Primero, pasa el 30 al primer miembro de la igualdad sumando, 40+30=5X
+Yure: Ahora sumas, 70=5X
+Yure: Luego, pasa el 5 al primer miembro de la ecuación dividiendo, 70/5=X
+Yure: Para finalizar, divide, 14=X
+Yure: ¿podrías decirnos los pasos necesarios para resolver la ecuación delante del espejo 50=2X+20?

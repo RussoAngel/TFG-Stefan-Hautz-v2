@@ -1,0 +1,29 @@
+Yera: Oye Yure, no se le ocurrirá a Yeyo mandarnos una ecuación como le hicimos nosotros. ¿No se puede encontrar la solución de forma mecánica?
+
+Yure: Simplificando la ecuación, y te lo voy a demostrar. Por ejemplo, la ecuación que mandó Yeyo, 4X+12=80.
+
+Yure: Si quitamos las 12 golosinas que sobraron desde el principio, serían 80-12=68, y la ecuación quedaría más simple, 4X=68.
+
+Yure: Ahora la puedo simplificar más para averiguar el número que multiplicado por 4 da 68, que es 68:4, o sea X=68:4, X=17.
+
+Yera: O sea, se trata de llegar a la ecuación más simple, la que deja la X sola en una parte.
+
+Yure: Ya ves, empiezas con la ecuación 4X+12=80, pasas a 4X=68 y, finalmente a X=17. La solución no se pierde con estas transformaciones lógicas.
+
+Yera: ¿Qué pasa si hubiéramos puesto 5 golosinas por bolsa?
+
+Yure: No nos hubieran llegado, nos faltarían 5 golosinas. La ecuación en este caso sería 5X-5=80.
+
+Yure: Si añades 5 golosinas a las 80 la ecuación queda 5X=85, o sea X=85/5, X=17, todas las bolsas con 5 golosinas.
+
+Yera: Voy a apuntar las reglas de transformación:
+
+Yera: Primera. Está permitido pasar lo que está sumando en un lado de la ecuación al otro restando.
+
+Yera: Segunda. Lo que está restando en un lado pasa al otro sumando.
+
+Yera: Tercera. Lo que está multiplicando a un lado pasa dividiendo al otro.
+
+Yera: Cuarta. Lo que está dividiendo a un lado pasa al otro multiplicando.
+
+Yure: ¿Podrías demostrar que la solución de la ecuación 17X+12=80 es X=4 aplicando las reglas que ha apuntado Yera?
