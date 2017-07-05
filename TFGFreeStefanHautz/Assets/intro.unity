@@ -1578,8 +1578,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 955261}
   m_HandleRect: {fileID: 955259}
   m_Direction: 0
-  m_Value: 0
-  m_Size: 1
+  m_Value: 0.9642334
+  m_Size: 0.944921
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -6112,8 +6112,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0004242697, y: -0.0013157651}
-  m_SizeDelta: {x: 1431, y: 412.32}
+  m_AnchoredPosition: {x: 0.00028285157, y: -8}
+  m_SizeDelta: {x: 1431, y: 448}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1822331297
 MonoBehaviour:
@@ -6147,19 +6147,20 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Introduce tus datos para empezar una nueva partida. Aseg\xFArate de que
-    son correctos.\nEn cada fase te encontrar\xE1s con un di\xE1logo en el que podr\xE1s
-    avanzar con \"Espacio\" o \"Enter\".\nAdem\xE1s, tendr\xE1s que usar determinadas
-    herramientas para cumplir los objetivos que se marquen en la ventana superior
-    izquierda.\nPodr\xE1s comprobar tus respuestas con el bot\xF3n \"Comprobar\" o
-    revisar el di\xE1logo de la fase en el texto de la parte inferior de la pantalla
-    para ayudarte a encontrar la respuesta correcta.\nCada comprobaci\xF3n err\xF3nea
-    contar\xE1 como un fallo y tendr\xE1s que esperar cinco segundos para poder realizar
-    otra comprobaci\xF3n. Por ello recomendamos que te tomes tu tiempo en cada fase
-    antes de comprobar.\nAl final de cada fase se te mostrar\xE1n el tiempo total,
-    los fallos totales y las estrellas que has conseguido en dicha fase. Recuerda
-    que, a menos fallos, \xA1m\xE1s estrellas!\nPodr\xE1s abandonar el juego con el
-    bot\xF3n \"Abandonar\" para continuar en otro momento."
+  m_Text: "Introduce tus datos para empezar una nueva partida (en el caso de usar
+    una cuenta Gmail se deber\xE1 permitir el acceso de aplicaciones menos seguras).
+    Aseg\xFArate de que son correctos.\nEn cada fase te encontrar\xE1s con un di\xE1logo
+    en el que podr\xE1s avanzar con \"Espacio\" o \"Enter\".\nAdem\xE1s, tendr\xE1s
+    que usar determinadas herramientas para cumplir los objetivos que se marquen en
+    la ventana superior izquierda.\nPodr\xE1s comprobar tus respuestas con el bot\xF3n
+    \"Comprobar\" o revisar el di\xE1logo de la fase en el texto de la parte inferior
+    de la pantalla para ayudarte a encontrar la respuesta correcta.\nCada comprobaci\xF3n
+    err\xF3nea contar\xE1 como un fallo y tendr\xE1s que esperar cinco segundos para
+    poder realizar otra comprobaci\xF3n. Por ello recomendamos que te tomes tu tiempo
+    en cada fase antes de comprobar.\nAl final de cada fase se te mostrar\xE1n el
+    tiempo total, los fallos totales y las estrellas que has conseguido en dicha fase.
+    Recuerda que, a menos fallos, \xA1m\xE1s estrellas!\nPodr\xE1s abandonar el juego
+    con el bot\xF3n \"Abandonar\" para continuar en otro momento."
 --- !u!222 &1822331298
 CanvasRenderer:
   m_ObjectHideFlags: 0
