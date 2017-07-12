@@ -22,8 +22,8 @@ public class endScreenManager : MonoBehaviour
         res4.text = "Tiempo Fase 4: " + String.Format("{0:0.00}", PlayerPrefs.GetFloat("timeLevel4")) + "\t\t\t Fallos Fase 4: " + PlayerPrefs.GetInt("failsLevel4");
         res5.text = "Tiempo Fase 5: " + String.Format("{0:0.00}", PlayerPrefs.GetFloat("timeLevel5")) + "\t\t\t Fallos Fase 5: " + PlayerPrefs.GetInt("failsLevel5");
         res6.text = "Tiempo Fase 6: " + String.Format("{0:0.00}", PlayerPrefs.GetFloat("timeLevel6")) + "\t\t\t Fallos Fase 6: " + PlayerPrefs.GetInt("failsLevel6");
-        res7.text = "Tiempo Fase 7: " + String.Format("{0:0.00}", PlayerPrefs.GetFloat("timeLevel7")) + "\t\t\t Fallos Fase 7: " + PlayerPrefs.GetInt("failsLevel7");
-        res8.text = "Tiempo Fase 8: " + String.Format("{0:0.00}", PlayerPrefs.GetFloat("timeLevel8")) + "\t\t\t Fallos Fase 8: " + PlayerPrefs.GetInt("failsLevel8");
+        res7.text = "Tiempo Fase 7.1: " + String.Format("{0:0.00}", PlayerPrefs.GetFloat("timeLevel7")) + "\t\t\t Fallos Fase 7: " + PlayerPrefs.GetInt("failsLevel7");
+        res8.text = "Tiempo Fase 7.2: " + String.Format("{0:0.00}", PlayerPrefs.GetFloat("timeLevel8")) + "\t\t\t Fallos Fase 8: " + PlayerPrefs.GetInt("failsLevel8");
 
         totalStars = PlayerPrefs.GetInt("starsLevel1") + PlayerPrefs.GetInt("starsLevel2") + PlayerPrefs.GetInt("starsLevel3") + PlayerPrefs.GetInt("starsLevel4") +
             PlayerPrefs.GetInt("starsLevel5") + PlayerPrefs.GetInt("starsLevel6") + PlayerPrefs.GetInt("starsLevel7") + PlayerPrefs.GetInt("starsLevel8");
