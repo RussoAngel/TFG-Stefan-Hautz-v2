@@ -102,6 +102,9 @@ public class TextBoxManagerNivel3 : MonoBehaviour {
             contenidoCas1 = cas1.transform.GetChild(0).name + cas2.transform.GetChild(0).name + cas3.transform.GetChild(0).name +
                 cas4.transform.GetChild(0).name + cas5.transform.GetChild(0).name + cas6.transform.GetChild(0).name;
         }
+        else {
+            contenidoCas1 = "";
+        }
 
         if (contenidoCas1.Equals("80=21X+17") || contenidoCas1.Equals("80=17+21X") || contenidoCas1.Equals("21X+17=80") ||
             contenidoCas1.Equals("17+21X=80"))
@@ -119,6 +122,10 @@ public class TextBoxManagerNivel3 : MonoBehaviour {
         {
             contenidoCas2 = cas7.transform.GetChild(0).name + cas8.transform.GetChild(0).name + cas9.transform.GetChild(0).name +
                 cas10.transform.GetChild(0).name + cas11.transform.GetChild(0).name + cas12.transform.GetChild(0).name + cas13.transform.GetChild(0).name;
+        }
+        else
+        {
+            contenidoCas2 = "";
         }
 
         if (contenidoCas2.Equals("80=21x3+17") || contenidoCas2.Equals("80=17+21x3") || contenidoCas2.Equals("21x3+17=80") ||

@@ -135,10 +135,18 @@ public class TextBoxManagerNivel7 : MonoBehaviour
         {
             contenidoCas1 = cas1.transform.GetChild(0).name + cas2.transform.GetChild(0).name + cas3.transform.GetChild(0).name;
         }
+        else
+        {
+            contenidoCas1 = "";
+        }
 
         if (!cas4.transform.childCount.Equals(0) && !cas5.transform.childCount.Equals(0) && !cas6.transform.childCount.Equals(0))
         {
             contenidoCas2 = cas4.transform.GetChild(0).name + cas5.transform.GetChild(0).name + cas6.transform.GetChild(0).name;
+        }
+        else
+        {
+            contenidoCas2 = "";
         }
 
         if (contenidoCas1.Equals("40-30"))

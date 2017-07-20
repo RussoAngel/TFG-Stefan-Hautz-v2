@@ -132,6 +132,10 @@ public class TextBoxManagerNivel5 : MonoBehaviour
             contenidoCas1 = cas1.transform.GetChild(0).name + cas2.transform.GetChild(0).name + cas3.transform.GetChild(0).name +
                 cas4.transform.GetChild(0).name + cas5.transform.GetChild(0).name + cas6.transform.GetChild(0).name;
         }
+        else
+        {
+            contenidoCas1 = "";
+        }
 
         if (!cas7.transform.childCount.Equals(0) && !cas8.transform.childCount.Equals(0) && !cas9.transform.childCount.Equals(0) &&
             !cas10.transform.childCount.Equals(0))
@@ -139,12 +143,20 @@ public class TextBoxManagerNivel5 : MonoBehaviour
             contenidoCas2 = cas7.transform.GetChild(0).name + cas8.transform.GetChild(0).name + cas9.transform.GetChild(0).name +
                 cas10.transform.GetChild(0).name;
         }
+        else
+        {
+            contenidoCas2 = "";
+        }
 
         if (!cas11.transform.childCount.Equals(0) && !cas12.transform.childCount.Equals(0) && !cas13.transform.childCount.Equals(0) &&
             !cas14.transform.childCount.Equals(0) && !cas15.transform.childCount.Equals(0))
         {
             contenidoCas3 = cas11.transform.GetChild(0).name + cas12.transform.GetChild(0).name + cas13.transform.GetChild(0).name +
                 cas14.transform.GetChild(0).name + cas15.transform.GetChild(0).name;
+        }
+        else
+        {
+            contenidoCas3 = "";
         }
 
         if (contenidoCas1.Equals("17X=80-12") || contenidoCas1.Equals("80-12=17X"))
